@@ -1,0 +1,14 @@
+C:\Users\Chudy\Desktop\programowanie obiektowe\Zadania-na-zaliczenie\ZadaniaNaZaliczenie\obj\Debug\net7.0\ZadaniaNaZaliczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chudy\Desktop\programowanie obiektowe\Zadania-na-zaliczenie\ZadaniaNaZaliczenie\obj\Debug\net7.0\ZadaniaNaZaliczenie.AssemblyInfoInputs.cache
+C:\Users\Chudy\Desktop\programowanie obiektowe\Zadania-na-zaliczenie\ZadaniaNaZaliczenie\obj\Debug\net7.0\ZadaniaNaZaliczenie.AssemblyInfo.cs
+C:\Users\Chudy\Desktop\programowanie obiektowe\Zadania-na-zaliczenie\ZadaniaNaZaliczenie\obj\Debug\net7.0\ZadaniaNaZaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\Chudy\Desktop\programowanie obiektowe\Zadania-na-zaliczenie\ZadaniaNaZaliczenie\bin\Debug\net7.0\ZadaniaNaZaliczenie.exe
+C:\Users\Chudy\Desktop\programowanie obiektowe\Zadania-na-zaliczenie\ZadaniaNaZaliczenie\bin\Debug\net7.0\ZadaniaNaZaliczenie.deps.json
+C:\Users\Chudy\Desktop\programowanie obiektowe\Zadania-na-zaliczenie\ZadaniaNaZaliczenie\bin\Debug\net7.0\ZadaniaNaZaliczenie.runtimeconfig.json
+C:\Users\Chudy\Desktop\programowanie obiektowe\Zadania-na-zaliczenie\ZadaniaNaZaliczenie\bin\Debug\net7.0\ZadaniaNaZaliczenie.dll
+C:\Users\Chudy\Desktop\programowanie obiektowe\Zadania-na-zaliczenie\ZadaniaNaZaliczenie\bin\Debug\net7.0\ZadaniaNaZaliczenie.pdb
+C:\Users\Chudy\Desktop\programowanie obiektowe\Zadania-na-zaliczenie\ZadaniaNaZaliczenie\obj\Debug\net7.0\ZadaniaNaZaliczenie.dll
+C:\Users\Chudy\Desktop\programowanie obiektowe\Zadania-na-zaliczenie\ZadaniaNaZaliczenie\obj\Debug\net7.0\refint\ZadaniaNaZaliczenie.dll
+C:\Users\Chudy\Desktop\programowanie obiektowe\Zadania-na-zaliczenie\ZadaniaNaZaliczenie\obj\Debug\net7.0\ZadaniaNaZaliczenie.pdb
+C:\Users\Chudy\Desktop\programowanie obiektowe\Zadania-na-zaliczenie\ZadaniaNaZaliczenie\obj\Debug\net7.0\ZadaniaNaZaliczenie.genruntimeconfig.cache
+C:\Users\Chudy\Desktop\programowanie obiektowe\Zadania-na-zaliczenie\ZadaniaNaZaliczenie\obj\Debug\net7.0\ref\ZadaniaNaZaliczenie.dll
